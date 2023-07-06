@@ -34,7 +34,7 @@ Running ESQmodel requires two files and an output location. Other parameters can
 ### Example Run
 Let us run ESQmodel on one of our example datasets. Here we are running a sample dataset with a sample prior and saving the results in the current folder.
 ```commandline
-esq infer --exp-csv 'example/y.csv' --prior-csv 'example/priors.csv' --out_dir 'example/'
+esq infer --exp-csv 'example/y.csv' --prior-csv 'example/priors.csv' -o 'example/'
 ```
 
 ### Troubleshooting:
