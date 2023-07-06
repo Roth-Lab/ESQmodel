@@ -1,0 +1,9 @@
+python>=3.6
+click
+matplotlib
+numba
+numpy
+pandas
+scikit-learn
+scipy
+seaborn
